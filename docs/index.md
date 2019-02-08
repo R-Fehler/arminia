@@ -5,11 +5,18 @@
 layout: home
 ---
 
-Das ist ein Wiki für die Aktiven der KB! Arminia. [Link zur Website](https://www.arminia-karlsruhe.de/)
+Das ist ein Wiki für die Aktiven der KB! Arminia. 
 
 
-Das interne Forum findet man hier: [**intern**](https://www.arminia-karlsruhe.de/intern/)
 
+| **Links**                                             |
+| ----------------------------------------------------- |
+| [Link zur KBA! Website](https://www.arminia-karlsruhe.de/) | 
+| ----------------------------------------------------- |
+| [**Dokumente**]({{site.url}}/arminia/Dokumente)       |
+| ----------------------------------------------------- |
+| [**internes Forum**](https://www.arminia-karlsruhe.de/intern/)|
+| ----------------------------------------------------- |
 
 Kontakt: [info@arminia-karlsruhe.de](info@arminia-karlsruhe.de)
 
