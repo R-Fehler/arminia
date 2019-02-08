@@ -13,7 +13,7 @@ Das ist ein Wiki für die Aktiven der KB! Arminia.
 | ----------------------------------------------------- |
 | [Link zur KBA! Website](https://www.arminia-karlsruhe.de/) | 
 | ----------------------------------------------------- |
-| [**Dokumente**]({{site.url}}/arminia/Dokumente)       |
+| [**Dokumente**]({{site.url}}/Dokumente)       |
 | ----------------------------------------------------- |
 | [**internes Forum**](https://www.arminia-karlsruhe.de/intern/)|
 | ----------------------------------------------------- |

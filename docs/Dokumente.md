@@ -7,4 +7,4 @@ permalink: /Dokumente/
 #### Rechnungen an die Hauptkasse &  das Wohnheim stellen
 
 Hier ist die Vorlage ->
-[Rechnungsvorlage als .xlsx]({{ site.url }}/arminia/dokumente/Vorlage-Rechnung-Arminia.xlsx)
+[Rechnungsvorlage als .xlsx]({{ site.url }}/dokumente/Vorlage-Rechnung-Arminia.xlsx)
