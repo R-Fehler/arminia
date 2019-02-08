@@ -28,6 +28,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
+# Algolia setup
+algolia:
+  application_id: 'P5KKL79UP4'
+  index_name: arminia_index
+  search_only_api_key: 14188d97abc9ded4394c26d441fad272
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
