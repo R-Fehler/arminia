@@ -7,7 +7,7 @@ layout: home
 
 Das ist ein Wiki für die Aktiven der KB! Arminia. 
 
-Wichtige [Infos]({{site.url}}/Info/)
+Wichtige [Infos](/Info/)
 
 
 Nutze die Navigationsleiste oder direkt die [Suche]({{site.url}}/Suche/)
